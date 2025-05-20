@@ -1,0 +1,19 @@
+[2025-05-14 10:59:34] 🚀 Task 0: launched in new terminal (PID: 877)
+[2025-05-14 10:59:34] 💾 Allocated 100MB RAM, 50MB HDD, 0 core(s) for task PID: 877.
+
+[2025-05-14 10:59:39] 🚀 Task 1: launched in new terminal (PID: 879)
+[2025-05-14 10:59:39] 💾 Allocated 100MB RAM, 50MB HDD, 1 core(s) for task PID: 879.
+
+[2025-05-14 10:59:41] 🚀 Task 2: launched in new terminal (PID: 881)
+[2025-05-14 10:59:41] 💾 Allocated 50MB RAM, 30MB HDD, 0 core(s) for task PID: 881.
+
+[2025-05-14 11:00:30] Task with PID 881 completed.
+
+[2025-05-17 16:37:55] 🔻 Initiating graceful shutdown...
+[2025-05-17 16:37:55] ☠️ Task with PID 877 Killed->Terminated/.
+[2025-05-17 16:37:55] Task with PID 877 completed.
+
+[2025-05-17 16:37:55] ☠️ Task with PID 879 Killed->Terminated/.
+[2025-05-17 16:37:55] Task with PID 879 completed.
+
+[2025-05-17 16:37:56] 🛑 System shutdown.
